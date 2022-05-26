@@ -1,0 +1,22 @@
+{
+  "name": "ajs_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soulmaers/ajs_clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soulmaers/ajs_clone/issues"
+  },
+  "homepage": "https://github.com/Soulmaers/ajs_clone#readme"
+}
